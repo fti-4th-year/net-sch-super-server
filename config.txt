@@ -1,0 +1,3 @@
+8081 printer
+8082 /usr/bin/python -u echo.py
+8083 ls -l
